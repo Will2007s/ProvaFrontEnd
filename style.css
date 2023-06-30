@@ -1,0 +1,27 @@
+@font-face 
+{
+    font-family:thebold;
+    src: url(THEBOLDFONT2022.otf);
+}
+
+
+body{
+    font-family:thebold;
+    background-image: url(juninaregente.jpg);
+    background-repeat:no-repeat;
+    background-position:unset;
+    background-size:cover;
+}
+H1{
+    text-align:center;
+    color:darkorange;
+    font-size:80px;
+}
+h2{
+    text-align:center;
+    font-size:40px;
+}
+h6{
+    font-size:105px;
+    opacity:0.0;
+}
